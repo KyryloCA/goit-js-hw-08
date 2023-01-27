@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI,UACZD,QAAQC,IAAI","sources":["src/js/02-video.js"],"sourcesContent":["console.log('привет');\nconsole.log('hello');\n"],"names":["console","log"],"version":3,"file":"02-video.a6fe9466.js.map"}
