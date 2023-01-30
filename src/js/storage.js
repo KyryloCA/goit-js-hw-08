@@ -1,5 +1,5 @@
 export const saveToStorage = (key, value) => {
-  console.log('saving...');
+  // console.log('saving...');
   try {
     const serializedState = JSON.stringify(value);
     localStorage.setItem(key, serializedState);
