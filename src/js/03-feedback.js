@@ -35,7 +35,7 @@ function formCleaner() {
 
 //LocalStorage cleaning
 function storageCleaner() {
-  localStorage.clear();
+  localStorage.removeItem('feedback-form-state');
 }
 
 //setting listener to form input
